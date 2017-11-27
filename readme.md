@@ -16,7 +16,7 @@
 
 - In order to create each webpage, a custom parser program breaks down .wpml configuration files and auto-generates the HTML code 
 
-An example of a configuration file would be:
+An example of a custom .wpml configuration file would be:
 
 ```
 .o()
