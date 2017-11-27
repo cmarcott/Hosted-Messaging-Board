@@ -1,10 +1,10 @@
-## Hosted Messaging Board
+# Hosted Messaging Board
 
 - This is a hosted service which allows users to create accounts, and post to different *messaging boards* depending on their interests
 
 - It was created for a school project
 
-# Breakdown
+## Breakdown
 
 - Users can create and join *groups* in which they can view other user's posts in the groups they are a part of
 
@@ -12,7 +12,7 @@
 
 - They can leave or join new groups as they please
 
-# Backend Breakdown
+## Backend Breakdown
 
 - Source Code written in C, C++, Python, PHP, HTML, and utilizes a mySQL database
 
