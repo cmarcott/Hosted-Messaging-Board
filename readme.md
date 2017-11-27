@@ -53,9 +53,6 @@ stored in the database.
  
 When used with the -streams flag the program prints out all stream
 names stored in the database.
- 
-Order of the output does not matter for any of the options which print
-the contents of a table.
 
 When used with the -help flag it prints out a usage message.
 
