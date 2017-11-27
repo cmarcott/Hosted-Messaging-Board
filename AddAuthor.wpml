@@ -1,0 +1,5 @@
+.s(element="form",elementValue="display: inline")
+.h(size=3,text="AddAuthor")
+.h(size=4,text="Please enter an Author and Stream(s) to add to:")
+.i(action="CallParser.php",text="Username:<br>",name="author",value="",text="Stream(s):<br>",name="stream",value="",hide=""name="wpmlfile",value="AddAuthorOutput.wpml",hide="",name="filecreate",value="AddAuthorOutput.php")
+.b(link="index.php",name="Home")

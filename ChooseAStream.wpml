@@ -1,0 +1,6 @@
+.h(size=3,text="Choose a Stream")
+.o()
+.f(varname="$uname",varvalue="$_POST['username']")
+.y(cmd="'./ChooseAStream.py '","$_POST['username']"END)
+.c()
+.b(link="index.php",name="Back")

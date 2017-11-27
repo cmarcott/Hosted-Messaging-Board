@@ -1,0 +1,5 @@
+.s(element="form",elementValue="display: inline")
+.h(size=3,text="RemoveAuthor")
+.h(size=4,text="Please enter an Author and Stream(s) to remove from:")
+.i(action="CallParser.php",text="Username:<br>",name="author",value="",text="Stream(s):<br>",name="stream",value="",hide=""name="wpmlfile",value="RemoveAuthorOutput.wpml",hide="",name="filecreate",value="RemoveAuthorOutput.php")
+.b(link="index.php",name="Home")

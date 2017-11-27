@@ -1,0 +1,11 @@
+.o()
+.f(varname="$uname",varvalue="$_POST['username']")
+.f(varname="$sname",varvalue="$_POST['stream']")
+.j(size="3",arg="Post to Stream ",arg="$sname")
+.k()
+.u(action="CallParser.php",text="",name="postcontents",rows="10",cols="50",hide="",name="username",value="$uname",hide="",name="stream",value="$sname",hide="",name="wpmlfile",value="PostOutput.wpml",hide="",name="filecreate",value="PostOutput.php")
+.b(link="view.php",name="Back to View",hide="",name="username",value="$uname",hide="",name="stream",value="$sname",hide="",name="flag",value="st@rt")
+.w()
+.c()
+
+

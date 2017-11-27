@@ -1,0 +1,6 @@
+.h(size=3,text="RemoveAuthor")
+.o()
+.a(cmd="'./addauthor -r '","$_POST['author']","' '","'-un1qu3Ph@s3 '","$_POST['stream']"END)
+.c()
+.s(element="form",elementValue="display: inline")
+.b(link="CallParser.php",name="Back",hide="",name="wpmlfile",value="RemoveAuthor.wpml",hide="",name="filecreate",value="RemoveAuthor.php").b(link="index.php",name="Home")

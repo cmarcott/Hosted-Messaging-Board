@@ -1,0 +1,8 @@
+.d()
+.b(link="view.php",name="Change Sorting Method",hide="",name="username",value="$uname",hide="",name="stream",value="$sname",hide="",name="savedflag",value="$savedFlag",hide="",name="flag",value="switchSort",hide="",name="offnum",value="$offset",hide="",name="lastpostread",value="$lastpostread",fleft="")
+.b(link="view.php",name="Mark All Read",hide="",name="username",value="$uname",hide="",name="stream",value="$sname",hide="",name="savedflag",value="$savedFlag",hide="",name="flag",value="-m@ll",hide="",name="offnum",value="$offset",hide="",name="lastpostread",value="$lastpostread",fleft="")
+.b(link="CallParser.php",name="Change Stream",hide="",name="wpmlfile",value="ChooseAStream.wpml",hide="",name="filecreate",value="ChooseAStream.php",hide="",name="username",value="$uname",fleft="")
+.b(link="view.php",name="Check for new Posts",hide="",name="username",value="$uname",hide="",name="stream",value="$sname",hide="",name="savedflag",value="$savedFlag",hide="",name="flag",value="st@rt",hide="",name="lastpostread",value="$lastpostread",fleft="")
+.b(link="CallParser.php",name="Add Author",hide="",name="wpmlfile",value="AddAuthor.wpml",hide="",name="filecreate",value="AddAuthor.php",fleft="")
+.b(link="CallParser.php",name="Remove Author",hide="",name="wpmlfile",value="RemoveAuthor.wpml",hide="",name="filecreate",value="RemoveAuthor.php",fleft="")
+.b(link="index.php",name="Change Author",fleft="")

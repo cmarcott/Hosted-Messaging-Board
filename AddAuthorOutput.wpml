@@ -1,0 +1,6 @@
+.h(size=3,text="AddAuthor")
+.o()
+.a(cmd="'./addauthor '", "$_POST['author']","' '","'-un1qu3Ph@s3 '","$_POST['stream']"END)
+.c()
+.s(element="form",elementValue="display: inline")
+.b(link="CallParser.php",name="Back",hide="",name="wpmlfile",value="AddAuthor.wpml",hide="",name="filecreate",value="AddAuthor.php").b(link="index.php",name="Home")
