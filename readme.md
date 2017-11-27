@@ -2,8 +2,6 @@
 
 - This is a hosted service which allows users to create accounts, and post to different *messaging boards* depending on their interests
 
-- It was created for a school project
-
 ## Breakdown
 
 - Users can create and join *groups* in which they can view other user's posts in the groups they are a part of
